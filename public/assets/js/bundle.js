@@ -1,0 +1,1 @@
+function ಠ_ಠ865(ಠ_ಠ866,ಠ_ಠ867){return ಠ_ಠ866+ಠ_ಠ867}alert("aqui hay muchos perritos!!!!!!"),console.log(ಠ_ಠ865(3,4));
